@@ -11,8 +11,3 @@
 <br>
 <img src="https://42yerevan.am/wp-content/uploads/2022/10/42-Network-logo-01-scaled-1.jpg">
 
-<br><br><br>
-
-# 🌌 &nbsp;42's &nbsp;galaxy &nbsp;(curriculum)
-<br>
-<img src="https://www.42mulhouse.fr/static/photos/holy_graph.png">
